@@ -18,3 +18,8 @@ FakeSmtpServer.exe.config
 ```
 
 Logging configuration: NLog.config
+
+
+
+---
+based on @rnwood smtp4dev
